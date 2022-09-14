@@ -1,0 +1,11 @@
+.jumbotron{
+background-image: url("joy1.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+height: 400px;
+color: pink;
+}
+
+h2{
+    font-weight: bold;
+}
